@@ -9,25 +9,25 @@
 	2. C#
 	3. Test automation
 5. **Code:**
-		```c#
-		// A Hello World! program in C#.
-		using System;
-		namespace HelloWorld
+```c#
+// A Hello World! program in C#.
+using System;
+namespace HelloWorld
+{
+	class Hello 
+	{
+		static void Main() 
 		{
-			class Hello 
-			{
-				static void Main() 
-				{
-					Console.WriteLine("Hello World!");
+			Console.WriteLine("Hello World!");
 
-					// Keep the console window open in debug mode.
-					Console.WriteLine("Press any key to exit.");
-					Console.ReadKey();
-				}
-			}
+			// Keep the console window open in debug mode.
+			Console.WriteLine("Press any key to exit.");
+			Console.ReadKey();
 		}
-		```
-		_More code on my [GitHub account](https://github.com/Arte-Mio)_
-6. **Experience:** 2 year as Test Automation Engineer
-7. **Education:** Test Automation Lab ae EPAM
+	}
+}
+```
+	_More code on my [GitHub account](https://github.com/Arte-Mio)_
+6. **Experience:** 2 years as Test Automation Engineer
+7. **Education:** Test Automation Lab at EPAM
 8. **English level**: B2
