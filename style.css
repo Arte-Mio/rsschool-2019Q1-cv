@@ -10,6 +10,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	padding-top: 30px;
+	padding-bottom: 50px;
 }
 
 .foto {
@@ -35,6 +36,20 @@ th {
 	padding: 5px 20px;
 }
 
+th {
+	background-color: #A0A0A0;
+}
+
 td:first-child{
 	font-weight: bold;
+}
+
+p:last-child {
+	font-style: italic;
+	color: blue;
+	padding-top: 5px;
+}
+
+li {
+	margin-left: 12px;
 }
